@@ -117,8 +117,8 @@ public class LinkedList<T> implements List<T> {
     }
     
     /**
-     * Retorna el tamaño de la lista
-     * @return El tamaño de la lista
+     * Retorna el tamano de la lista
+     * @return El tamano de la lista
      */
     public int size() {
         return size;

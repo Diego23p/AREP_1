@@ -29,7 +29,7 @@ public class MeanAndDesviation {
             double desviacion = Calculadora.getDeviation(linkedList);
             desviacion =(double)Math.round(desviacion * 100d) / 100d;
             System.out.println("La media es: "+ media);
-            System.out.println("La desviación estandar es: "+ desviacion);
+            System.out.println("La desviacion estandar es: "+ desviacion);
             
         } catch (FileNotFoundException e) {
             System.out.println("Archivo no encontrado");

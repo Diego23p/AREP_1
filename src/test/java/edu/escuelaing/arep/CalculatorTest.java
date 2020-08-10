@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 
 public class CalculatorTest {
 	
-	//Test del funcionamineto de las linkedList y sus métodos (6)
+	//Test del funcionamineto de las linkedList y sus metodos (6)
 	
 	@Test
 	void deberiaAgregarNodos() {
@@ -93,7 +93,7 @@ public class CalculatorTest {
                   
    	}
     
-    //Test del funcionamito de los métodos de mean y Standard Deviation
+    //Test del funcionamito de los metodos de mean y Standard Deviation
     
     @Test
     void deberiaCalcularLaMedia(){
