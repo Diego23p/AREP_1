@@ -84,7 +84,7 @@ Para ejecutar únicamente los test, se tiene el siguiente comando desde CMD:
 [INFO] ------------------------------------------------------------------------
 ```
 
-Los seis primeros test evalúan el funcionamiento de la linkedList como tal y los siguientes cuatro test, prueban casos en donde debería y no debería coincidir los números esperados.
+Los seis primeros test evalúan el funcionamiento de la linkedList como tal y los siguientes cuatro test, prueban casos en donde debería y no debería coincidir los números esperados de media y desviación estandar.
 
 # Descripción del Diseño
 
@@ -96,4 +96,4 @@ Los seis primeros test evalúan el funcionamiento de la linkedList como tal y lo
 
 # Licencia
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
